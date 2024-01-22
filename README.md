@@ -8,7 +8,7 @@ Example usage:
 
 ![example response to the prompt "What does GPT stand for, and what does LFM stand for?"](https://github.com/hchiam/learning-localGPT/blob/main/example_usage.png)
 
-Demo on Google Colab: https://colab.research.google.com/drive/1gAPlihLbTb0P1QWqeMHqJhtqlWjPTVMp?authuser=0#scrollTo=KCRYHx3ZVsfk
+Demo on Google Colab: https://colab.research.google.com/drive/1gAPlihLbTb0P1QWqeMHqJhtqlWjPTVMp
 
 - Jupyter notebook export: https://github.com/hchiam/learning-localGPT/blob/main/PromtEngineer_localGPT_test.ipynb
 
