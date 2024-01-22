@@ -16,4 +16,6 @@ Demo on Google Colab: https://colab.research.google.com/drive/1gAPlihLbTb0P1QWqe
 
 ## other things you might find interesting
 
+https://github.com/hchiam/learning-TinyLlama
+
 https://github.com/hchiam/learning-gpt4all
